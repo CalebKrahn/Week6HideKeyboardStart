@@ -7,8 +7,8 @@
 //
 
 import UIKit
-
-class ViewController: UIViewController {
+//0 ) Modify class ViewController: UIViewController, UIScrollViewDelegate, UITextFieldDelegate 
+class ViewController: UIViewController, UIScrollViewDelegate, UITextFieldDelegate {
     
     //Outlets
     
